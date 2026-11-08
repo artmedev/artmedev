@@ -134,11 +134,49 @@
     <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" alt="Chrome Extensions"/><br/><sub>Chrome Extensions</sub></td>
     <td align="center" width="88"><img src="https://cdn.simpleicons.org/telegram" width="40" height="40" alt="Telegram Bots"/><br/><sub>Telegram Bots</sub></td>
     <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress"/><br/><sub>WordPress</sub></td>
-    <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" width="40" height="40" alt="npm"/><br/><sub>npm</sub></td>
+    <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/><br/><sub>Laravel</sub></td>
   </tr>
   <tr>
+    <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/><br/><sub>SQLite</sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/minio" width="40" height="40" alt="MinIO"/><br/><sub>MinIO</sub></td>
+    <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/><br/><sub>Terraform</sub></td>
+    <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40" height="40" alt="Ubuntu"/><br/><sub>Ubuntu</sub></td>
+    <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40" alt="PowerShell"/><br/><sub>PowerShell</sub></td>
+    <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40" height="40" alt="JSON"/><br/><sub>JSON</sub></td>
+    <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" width="40" height="40" alt="YAML"/><br/><sub>YAML</sub></td>
+    <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="Markdown"/><br/><sub>Markdown</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="40" height="40" alt="Axios"/><br/><sub>Axios</sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/reactivex" width="40" height="40" alt="RxJS"/><br/><sub>RxJS</sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/zod" width="40" height="40" alt="Zod"/><br/><sub>Zod</sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/jsonwebtokens/888888" width="40" height="40" alt="JWT"/><br/><sub>JWT</sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/passport" width="40" height="40" alt="Passport"/><br/><sub>Passport</sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/leaflet" width="40" height="40" alt="Leaflet"/><br/><sub>Leaflet</sub></td>
+    <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" width="40" height="40" alt="Handlebars"/><br/><sub>Handlebars</sub></td>
+    <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="40" height="40" alt="Vitest"/><br/><sub>Vitest</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/testinglibrary" width="40" height="40" alt="Testing Library"/><br/><sub>Testing Library</sub></td>
+    <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" height="40" alt="ESLint"/><br/><sub>ESLint</sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/prettier" width="40" height="40" alt="Prettier"/><br/><sub>Prettier</sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/biome" width="40" height="40" alt="Biome"/><br/><sub>Biome</sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/esbuild" width="40" height="40" alt="esbuild"/><br/><sub>esbuild</sub></td>
+    <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" width="40" height="40" alt="Nodemon"/><br/><sub>Nodemon</sub></td>
+    <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/><br/><sub>Jira</sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/pwa" width="40" height="40" alt="PWA"/><br/><sub>PWA</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/materialdesign" width="40" height="40" alt="Material Design"/><br/><sub>Material Design</sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/umami/888888" width="40" height="40" alt="Umami"/><br/><sub>Umami</sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/vaultwarden/888888" width="40" height="40" alt="Vaultwarden"/><br/><sub>Vaultwarden</sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/syncthing" width="40" height="40" alt="Syncthing"/><br/><sub>Syncthing</sub></td>
+    <td align="center" width="88"><img src="https://cdn.simpleicons.org/ntfy" width="40" height="40" alt="ntfy"/><br/><sub>ntfy</sub></td>
+    <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" width="40" height="40" alt="npm"/><br/><sub>npm</sub></td>
     <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/><br/><sub>VS Code</sub></td>
     <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40" height="40" alt="WebStorm"/><br/><sub>WebStorm</sub></td>
+  </tr>
+  <tr>
     <td align="center" width="88"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi"/><br/><sub>Raspberry Pi</sub></td>
   </tr>
 </table>
