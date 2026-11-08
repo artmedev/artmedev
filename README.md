@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">Senior Full-Stack Developer · Tech Lead · Top Rated Plus on Upwork</h3>
+<p align="center"><a href="https://artme.dev"><b>artme.dev</b></a></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=artmedev&label=Profile%20views&color=0e75b6&style=flat" alt="artmedev" />
